@@ -9,7 +9,7 @@ O objetivo do projeto foi treinar fundamentos de **desenvolvimento web** como ma
 - **HTML5** para estrutura da página  
 - **CSS3** para estilização e animações  
 - **JavaScript** para interação e lógica do jogo
-- 
+ 
 ---
 
 ## 📂 Como executar localmente
